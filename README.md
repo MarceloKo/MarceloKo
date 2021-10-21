@@ -1,5 +1,5 @@
 ## Olá, sou o Marcelo! 😄
-- 👨‍🎓 Estudante de Engenharia da Computação na UFMT, atualmente estou cursando o 6° Semestre.
+- 👨‍🎓 Estudante de Engenharia da Computação na UFMT, estou cursando o 6° Semestre.
 - 🎯 Atualmente estou buscando me aprofundar em HTML, CSS e JavaScript.
 
 <div align="center">
