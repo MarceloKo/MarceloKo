@@ -2,9 +2,12 @@
 - 👨‍🎓 Estudante de Engenharia da Computação na UFMT, atualmente estou cursando o 6° Semestre.
 - 🎯 Atualmente estou buscando me aprofundar em HTML, CSS e JavaScript.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloKo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloKo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats">
+   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+   <img src="https://github-readme-stats.vercel.app/api?username=marceloKo&show_icons=true&theme=radical">
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceloKo&show_icons=true&theme=radical)
 
 <h2>Skills</h2>
 <div>
@@ -16,7 +19,7 @@
 
 <div>
   <h2>Contatos</h2>
-  <a href="https://www.linkedin.com/in/marcelo-kohlhase/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/MarceloKo/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/marcelo-kohlhase/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/MarceloKo/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://api.whatsapp.com/send?phone=5565996025657" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
