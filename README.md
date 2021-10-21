@@ -14,7 +14,7 @@
 
 <h2>Skills</h2>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloKo&theme=radical&show_icons=true&count_private=true">
+   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloKo&theme=radical&show_icons=true&count_private=true">
    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
    <img width="600px" src="https://github-readme-stats.vercel.app/api?username=marceloKo&show_icons=true&theme=radical">
 </div>
