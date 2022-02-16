@@ -11,16 +11,6 @@
 
 </div>
 
-
-<h2>Skills</h2>
-<div align="center">
-   <img width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloKo&theme=radical&show_icons=true&count_private=true">
-   &nbsp&nbsp&nbsp
-   <img width="540px" src="https://github-readme-stats.vercel.app/api?username=marceloKo&show_icons=true&theme=radical">
-</div>
-
-
-
 <div align="center"><br>
    <img align="center" alt="Marcelo-C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
    <img align="center" alt="Marcelo-HTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
