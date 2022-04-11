@@ -1,8 +1,8 @@
 ## Olá, sou o Marcelo! 😄
 
-- 👨‍🎓 Estudante de Engenharia da Computação na UFMT, estou cursando o 6° Semestre.
-- 🎯 Atualmente estou buscando me aprofundar em HTML, CSS e JavaScript.
-- 👜 Ainda sem experiência no mercado de trabalho.
+- 👨‍🎓 Estudante de Engenharia da Computação na UFMT, estou cursando o 7° Semestre.
+- 🎯 Atualmente estou buscando me aprofundar em React JS e Node.
+- 👜 Desenvolvedor junior Full Stack.
 
 
 <div align="center">
