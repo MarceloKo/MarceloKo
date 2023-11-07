@@ -1,6 +1,6 @@
 ## Olá, sou o Marcelo! 😄
 
-- 👨‍🎓 Estudante de Engenharia da Computação na UFMT, estou cursando o 9° Semestre.
+- 👨‍🎓 Graduado em Engenharia da Computação na UFMT.
 - 👜 Desenvolvedor pleno Full Stack.
 - React, Typescript, Node, Angular e C#.
 
